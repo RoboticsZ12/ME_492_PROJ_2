@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibA.a CMakeFiles/libA.dir/MATH_A_LIB.cpp.o
+/usr/bin/ranlib liblibA.a

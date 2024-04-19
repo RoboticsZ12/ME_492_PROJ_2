@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zechariah/ME_492_PROJ_2/build/libs/libA",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_2/libs/libA -I/home/zechariah/ME_492_PROJ_2/libs/libB -g -std=gnu++11 -o CMakeFiles/libA.dir/MATH_A_LIB.cpp.o -c /home/zechariah/ME_492_PROJ_2/libs/libA/MATH_A_LIB.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_2/libs/libA/MATH_A_LIB.cpp"
+},
+{
+  "directory": "/home/zechariah/ME_492_PROJ_2/build/libs/libB",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_2/libs/libB -g -std=gnu++11 -o CMakeFiles/libB.dir/data_struc_libB.cpp.o -c /home/zechariah/ME_492_PROJ_2/libs/libB/data_struc_libB.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_2/libs/libB/data_struc_libB.cpp"
+},
+{
+  "directory": "/home/zechariah/ME_492_PROJ_2/build/libs/OpenCV",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_2/libs/OpenCV -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/OpenCV.dir/OpenCV.cpp.o -c /home/zechariah/ME_492_PROJ_2/libs/OpenCV/OpenCV.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_2/libs/OpenCV/OpenCV.cpp"
+},
+{
+  "directory": "/home/zechariah/ME_492_PROJ_2/build/app1",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_2/../libs/libA -I/home/zechariah/ME_492_PROJ_2/libs/libA -I/home/zechariah/ME_492_PROJ_2/libs/libB -g -std=gnu++11 -o CMakeFiles/app1.dir/app1.cpp.o -c /home/zechariah/ME_492_PROJ_2/app1/app1.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_2/app1/app1.cpp"
+},
+{
+  "directory": "/home/zechariah/ME_492_PROJ_2/build/app2",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_2/../libs/libB -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/app2.dir/app2.cpp.o -c /home/zechariah/ME_492_PROJ_2/app2/app2.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_2/app2/app2.cpp"
+}
+]

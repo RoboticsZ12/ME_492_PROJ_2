@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOpenCV.a CMakeFiles/OpenCV.dir/OpenCV.cpp.o
+/usr/bin/ranlib libOpenCV.a

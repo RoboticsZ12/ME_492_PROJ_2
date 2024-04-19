@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibB.a CMakeFiles/libB.dir/data_struc_libB.cpp.o
+/usr/bin/ranlib liblibB.a

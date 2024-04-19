@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/app1.dir/app1.cpp.o -o app1  ../libs/libA/liblibA.a ../libs/libB/liblibB.a 
